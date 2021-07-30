@@ -88,7 +88,7 @@
 }
 
 #home .landing {
-  margin-top: 30px;
+  
   padding: 0 100px;
   height: 90vh;
   display: -webkit-box;
@@ -100,6 +100,7 @@
 }
 
 #home .landing img {
+  margin-top: 30px;
   width: 100%;
 }
 
