@@ -32,7 +32,6 @@
 }
 
 #home .header .logo {
-  padding-top: 30px;
   margin-left: 80px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -101,7 +100,7 @@
 
 #home .landing img {
   width: 100%;
-  padding-top: 100px;
+  padding-top: 120px;
 }
 
 #home .landing img:hover {
