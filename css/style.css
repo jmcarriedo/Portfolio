@@ -88,7 +88,7 @@
 }
 
 #home .landing {
-  padding: 0 100px;
+  padding: 30px 100px 0 100px;
   height: 90vh;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -100,7 +100,6 @@
 
 #home .landing img {
   width: 100%;
-  padding-top: 120px;
 }
 
 #home .landing img:hover {
