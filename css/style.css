@@ -32,7 +32,7 @@
 }
 
 #home .header .logo {
-  margin-left: 100px;
+  margin-left: 80px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -58,7 +58,7 @@
 }
 
 #home .header .nav {
-  padding-right: 70px;
+  padding-right: 80px;
 }
 
 #home .header .nav li {
