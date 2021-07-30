@@ -28,7 +28,7 @@
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  font-family: "Recoleta", sans-serif;
+  font-family: "recoletaregular_demo", sans-serif;
 }
 
 #home .header .logo {
@@ -131,7 +131,7 @@
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  font-family: "Recoleta", sans-serif;
+  font-family: "recoletaregular_demo", sans-serif;
   text-align: center;
 }
 
@@ -349,11 +349,11 @@
   font-size: 50px;
   font-weight: 700;
   padding-top: 100px;
-  font-family: "Recoleta", sans-serif;
+  font-family: "recoletaregular_demo", sans-serif;
 }
 
 #about .about-container .me div {
-  font-family: "Recoleta", sans-serif;
+  font-family: "recoletaregular_demo", sans-serif;
   font-weight: 500;
   text-align: justify;
 }
@@ -453,13 +453,13 @@
 
 
 #quote {
-  font-family: "Recoleta", sans-serif;
+  font-family: "recoletaregular_demo", sans-serif;
   padding: 0 100px;
 }
 
 #portfolio {
   height: 130vh;
-  font-family: "Recoleta", sans-serif;
+  font-family: "recoletaregular_demo", sans-serif;
   width: 100%;
 }
 
@@ -503,7 +503,7 @@
 #contact {
   position: relative;
   height: 90vh;
-  font-family: "Recoleta", sans-serif;
+  font-family: "recoletaregular_demo", sans-serif;
   padding: 0 100px;
 }
 
@@ -536,7 +536,7 @@
 #footer {
   height: 10vh;
   background-color: #00b52f;
-  font-family: "Recoleta", sans-serif;
+  font-family: "recoletaregular_demo", sans-serif;
 }
 
 #footer img {
