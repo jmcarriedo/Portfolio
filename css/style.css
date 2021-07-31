@@ -1,3 +1,60 @@
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Recoleta DEMO', 'Recoleta';
+  src: url('css/fonts/Recoleta-RegularDEMO.woff2') format('woff2'),
+  url('css/fonts/Recoleta-RegularDEMO.woff') format('woff'),
+  url('css/fonts/Recoleta.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+input:invalid:required {
+  background-image: linear-gradient(to right, #84e358,lightgreen);
+  border: 2px black;
+}
+input:valid {
+  border: 2px solid black;
+}
+
+textarea:invalid:required {
+  background-image: linear-gradient(to right, green,lightgreen);
+  border: 2px black;
+}
+textarea:valid {
+  border: 2px solid black;
+}
+
+.scrollToTopBtn {
+  background-color: black;
+  border: none;
+  border-radius: 50%;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  width: 48px;
+  line-height: 48px;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+
+  z-index: 100;
+  opacity: 0;
+  transform: translateY(100px);
+  transition: all .5s ease
+}
+
+.showBtn {
+  opacity: 1;
+  transform: translateY(0)
+}
+
+
 #home {
   width: 100%;
   height: 100vh;
